@@ -5,6 +5,7 @@ WalletHub Assignments
 
 
 The WalletHub Assignments are split into two parts:
+
 Assignment1 – In this user signs-in Facebook and posts a feed. Once this is done, we need to verify the feed.
 
 Assignment2 – In this user signs-in to Wallethub site and provides star rating and writes review text. Once this is posted, user has to verify whether the Reviews are correct or not.
