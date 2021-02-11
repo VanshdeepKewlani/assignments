@@ -1,0 +1,10 @@
+com.wallethub.assignments.assignment1.context
+com.wallethub.assignments.assignment1.enums
+com.wallethub.assignments.assignment1.managers
+com.wallethub.assignments.assignment1.pageObjects
+com.wallethub.assignments.assignment2.context
+com.wallethub.assignments.assignment2.enums
+com.wallethub.assignments.assignment2.managers
+com.wallethub.assignments.assignment2.pageObjects
+com.wallethub.assignments.utilities
+com.wallethub.assignmentstest.assignments2_test
